@@ -6,6 +6,7 @@
 </head>
 <body>
 <p>localizada em Paulo frontin rua 15 de novembro n°113</p>
+h1{color:
 <p><em>nossa missão é: <strong> "proporcionar saúde e bem estar as pessoas e fornecer medicamentos de alta qualidade de vida a um preço justo"</strong>.</em></p>
 
 
